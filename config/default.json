@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://tarik-mongodb:CsCn9HMOTFlVk1Nq@cluster0.2503m.mongodb.net/socialNetworkApp?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "githubClientId": "964e51fd923cece057cd",
+  "githubSecret": "38f487f361aa206219bbf798ce8363e2b753d673"
+}
