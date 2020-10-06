@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "antd": "^4.6.6",
     "axios": "^0.20.0",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.1",
