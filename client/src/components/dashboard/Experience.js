@@ -32,7 +32,7 @@ const Experience = ({experience, deleteExperience}) => {
             <th />
           </tr>
         </thead>
-        <tbody> {experiences} </tbody>
+        <tbody>{experiences}</tbody>
       </table>
     </Fragment>
   );
